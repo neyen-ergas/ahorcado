@@ -1,4 +1,4 @@
-from logica import *
+from logica.logica import *
 
 
 def juego():
@@ -33,9 +33,9 @@ def juego():
                 print(f"Palabra actual: {guiones}")
             else:
                 intentos -= 1
-                corazones = intentos_a_corazones(intentos)
                 mostrar_ahorcado(intentos)
-                print(f"¡Letra incorrecta! Te quedan {corazones} vidas.")
+                print(f"¡Letra incorrecta! Te quedan {intentos} vidas.")
+                print(f"Palabra actual: {guiones}")
 
 
             if "_ " not in guiones:

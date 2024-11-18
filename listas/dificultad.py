@@ -1,4 +1,4 @@
-from categorias import *
+from listas.categorias import *
 
 facil = [
     ("Cine", cine_facil),

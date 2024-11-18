@@ -21,14 +21,12 @@ El juego presenta una palabra oculta que pertenece a una categoría elegida al a
 2. Una categoría se elige al azar dentro del nivel de dificultad.
 3. Adivina la palabra letra por letra.
 4. Cada error reducirá tus intentos y actualizará el dibujo del ahorcado.
-5. ¡Adivina la palabra completa antes de quedarte sin intentos!
 
 ## Características
 
 - Selección de dificultad: Fácil, Medio, Difícil.
 - Diversas categorías temáticas: Cine, Deportes, Geografía, Animales, etc.
 - Representación gráfica del ahorcado que se actualiza con cada intento incorrecto.
-- Indicador visual de vidas restantes con corazones.
 
 ## Requisitos
 

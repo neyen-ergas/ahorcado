@@ -1,8 +1,8 @@
 import random
-from dificultad import *
-from categorias import *
-from dibujo_ahorcado import *
-import dificultad as dificultades
+from listas.dificultad import *
+from listas.categorias import *
+from listas.dibujo_ahorcado import *
+import listas.dificultad as dificultades
 
 
 def elegir_dificultad():
@@ -50,10 +50,3 @@ def actualizar_guiones(guiones, palabra, letra):
         if palabra[i].lower() == letra:
             guiones_lista[i * 2] = palabra[i]
     return ''.join(guiones_lista)
-
-def intentos_a_corazones(intentos):
-    corazones=""
-    while intentos>0:
-        corazones=corazones + "❤ "
-        intentos-= 1
-    return corazones
