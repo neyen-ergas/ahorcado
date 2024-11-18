@@ -48,7 +48,7 @@ Para ejecutar este proyecto, necesitas:
 
 3. Ejecuta el archivo principal:
 
-    python juego.py
+    python main.py
 
 
 ## Creadores
