@@ -64,5 +64,5 @@ def mostrar_ahorcado(intentos):
         =========
         """
     ]
-    print(dibujos[5 - intentos]) 
+    print(dibujos[6 - intentos]) 
     

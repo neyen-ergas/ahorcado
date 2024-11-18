@@ -1,37 +1,34 @@
 from categorias import *
 
-# Fácil
 facil = [
-    cine_facil,
-    deporte_facil,
-    cultura_general_facil,
-    animales_facil,
-    paises_facil,
-    ciencia_facil,
-    entretenimiento_facil,
-    geografia_facil
+    ("Cine", cine_facil),
+    ("Deporte", deporte_facil),
+    ("Cultura General", cultura_general_facil),
+    ("Animales", animales_facil),
+    ("Países", paises_facil),
+    ("Ciencia", ciencia_facil),
+    ("Entretenimiento", entretenimiento_facil),
+    ("Geografía", geografia_facil)
 ]
 
-# Medio
 medio = [
-    cine_medio,
-    deporte_medio,
-    cultura_general_medio,
-    animales_medio,
-    paises_medio,
-    ciencia_medio,
-    entretenimiento_medio,
-    geografia_medio
+    ("Cine", cine_medio),
+    ("Deporte", deporte_medio),
+    ("Cultura General", cultura_general_medio),
+    ("Animales", animales_medio),
+    ("Países", paises_medio),
+    ("Ciencia", ciencia_medio),
+    ("Entretenimiento", entretenimiento_medio),
+    ("Geografía", geografia_medio)
 ]
 
-# Difícil
 dificil = [
-    cine_dificil,
-    deporte_dificil,
-    cultura_general_dificil,
-    animales_dificil,
-    paises_dificil,
-    ciencia_dificil,
-    entretenimiento_dificil,
-    geografia_dificil
+    ("Cine", cine_dificil),
+    ("Deporte", deporte_dificil),
+    ("Cultura General", cultura_general_dificil),
+    ("Animales", animales_dificil),
+    ("Países", paises_dificil),
+    ("Ciencia", ciencia_dificil),
+    ("Entretenimiento", entretenimiento_dificil),
+    ("Geografía", geografia_dificil)
 ]
