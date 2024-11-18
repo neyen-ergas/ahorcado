@@ -8,9 +8,8 @@
 - [Características](#características)
 - [Requisitos](#requisitos)
 - [Ejecución](#ejecución)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Creadores](#creadores)
+
 
 ## Descripción
 
@@ -44,3 +43,19 @@ Para ejecutar este proyecto, necesitas:
 
    ```bash
    git clone https://github.com/tu_usuario/juego-ahorcado.git
+   
+2. Ve al directorio del proyecto:
+    
+    cd juego-ahorcado
+
+3. Ejecuta el archivo principal:
+
+    python juego.py
+
+
+## Creadores
+Este proyecto fue desarrollado con dedicación por:
+
+- [Neyen-Ergas](https://github.com/neyen-ergas)
+- [Chuli03](https://github.com/chuli03)
+- [Ivorapi](https://github.com/ivorapi)
