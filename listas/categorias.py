@@ -1,40 +1,39 @@
 # Cine
 cine_facil = ["Titanic", "Avatar", "Alien", "Matrix", "Amelie"]
-cine_medio = ["Gladiator", "Casablanca", "Inception", "Jumanji", "Interestelar"]
+cine_medio = ["Gladiador", "Casablanca", "Inception", "Jumanji", "Zatura"]
 cine_dificil = ["Godfather", "Schindler", "Apocalypse", "Reservoir", "Interstellar"]
 
 # Deporte
-deporte_facil = ["Fútbol", "Tenis", "Rugby", "Esgrima", "Golf"]
-deporte_medio = ["Atletismo", "Natación", "Ciclismo", "Baloncesto", "Voleibol"]
-deporte_dificil = ["Halterofilia", "Taekwondo", "Snowboarding", "Badminton", "Pentatlón"]
+deporte_facil = ["Futbol", "Tenis", "Rugby", "Esgrima", "Golf"]
+deporte_medio = ["Atletismo", "Natacion", "Ciclismo", "Baloncesto", "Voleibol"]
+deporte_dificil = ["Halterofilia", "Taekwondo", "Snowboarding", "Badminton", "Pentatlon"]
 
 # Cultura General
-cultura_general_facil = ["Historia", "Física", "Geografía", "Economía", "Cultura"]
-cultura_general_medio = ["Matemáticas", "Astronomía", "Política", "Filosofía", "Biología"]
-cultura_general_dificil = ["Antropología", "Sociología", "Arquitectura", "Epistemología", "Etnografía"]
+cultura_general_facil = ["Historia", "Fisica", "Geografia", "Economia", "Cultura"]
+cultura_general_medio = ["Matematicas", "Astronomia", "Politica", "Filosofia", "Biologia"]
+cultura_general_dificil = ["Antropologia", "Sociologia", "Arquitectura", "Epistemologia", "Etnografia"]
 
 # Animales
-animales_facil = ["Elefante", "Tigre", "Jirafa", "Delfín", "Pingüino"]
-animales_medio = ["Cocodrilo", "Colibrí", "Camaleón", "Rinoceronte", "Hipopótamo"]
-animales_dificil = ["Ornitorrinco", "Avestruz", "Peregrino", "Dragón de Komodo", "Caracal"]
+animales_facil = ["Elefante", "Tigre", "Jirafa", "Delfin", "Pinguino"]
+animales_medio = ["Cocodrilo", "Colibri", "Camaleon", "Rinoceronte", "Hipopotamo"]
+animales_dificil = ["Ornitorrinco", "Avestruz", "Peregrino", "Dragon de Komodo", "Caracol"]
 
-# Países
-paises_facil = ["España", "Japón", "Brasil", "Francia", "Egipto"]
-paises_medio = ["Argentina", "Australia", "Alemania", "Canadá", "Nueva Zelanda"]
-paises_dificil = ["Kazajistán", "Madagascar", "Uzbekistán", "Liechtenstein", "Azerbaiyán"]
+# Paises
+paises_facil = ["España", "Japon", "Brasil", "Francia", "Egipto"]
+paises_medio = ["Argentina", "Australia", "Alemania", "Canada", "Nueva Zelanda"]
+paises_dificil = ["Kazajistan", "Madagascar", "Uzbekistan", "Liechtenstein", "Azerbaiyan"]
 
 # Ciencia
-ciencia_facil = ["Átomo", "ADN", "Química", "Genética", "Energía"]
-ciencia_medio = ["Fotosíntesis", "Neurona", "Gravedad", "Evolución", "Mitosis"]
-ciencia_dificil = ["Electromagnetismo", "Tectónica", "Termodinámica", "Biotecnología", "Criptografía"]
+ciencia_facil = ["Atomo", "ADN", "Quimica", "Genetica", "Energia"]
+ciencia_medio = ["Fotosintesis", "Neurona", "Gravedad", "Evolucion", "Mitosis"]
+ciencia_dificil = ["Electromagnetismo", "Tectonica", "Termodinamica", "Biotecnologia", "Criptografia"]
 
 # Entretenimiento
-entretenimiento_facil = ["Netflix", "Cómic", "Magia", "Karaoke", "Música"]
-entretenimiento_medio = ["Televisión", "Concierto", "Espectáculo", "Musical", "Festival"]
-entretenimiento_dificil = ["Videojuego", "Streaming", "Cinematografía", "Stand-up", "Audiovisual"]
+entretenimiento_facil = ["Netflix", "Comic", "Magia", "Karaoke", "Musica"]
+entretenimiento_medio = ["Television", "Concierto", "Espectaculo", "Musical", "Festival"]
+entretenimiento_dificil = ["Videojuego", "Streaming", "Cinematografia", "Stand-up", "Audiovisual"]
 
-# Geografía
-geografia_facil = ["Montaña", "Océano", "Desierto", "Río", "Lago"]
-geografia_medio = ["Península", "Archipiélago", "Delta", "Estrecho", "Volcán"]
+# Geografia
+geografia_facil = ["Montaña", "Oceano", "Desierto", "Rio", "Lago"]
+geografia_medio = ["Peninsula", "Archipielago", "Delta", "Estrecho", "Volcan"]
 geografia_dificil = ["Catarata", "Fjord", "Cenote", "Cordillera", "Meseta"]
-
