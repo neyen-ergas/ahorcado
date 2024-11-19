@@ -40,7 +40,7 @@ Para ejecutar este proyecto, necesitas:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/juego-ahorcado.git
+   git clone https://github.com/neyen-ergas/ahorcado.git
    
 2. Ve al directorio del proyecto:
     
